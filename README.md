@@ -1,3 +1,5 @@
+The list of resources where it's best to look for a job in IT in Baltic states — Lithuania, Latvia, Estonia
+
 
 # Lithuania
 * [cv.lt](https://www.cv.lt)
@@ -16,6 +18,7 @@
 
 # For all Baltics:
 * [MeetFrank app](https://meetfrank.com/)
-* [LinkedIn](https://linkedin.com) - job search by city: Riga (LV), Tallinn (EE), Tartu (EE), Vilnius (LT), Kaunas (LT)
+* [LinkedIn](https://linkedin.com) — job search by city: Riga (LV), Tallinn (EE), Tartu (EE), Vilnius (LT), Kaunas (LT)
   * [Why you need LinkedIn and how to create informative profile](https://www.instagram.com/p/CFe60-sgYXU/)
   * [LinkedIn tips](https://www.instagram.com/p/CFt8e62AhOT/)
+* [GlassDoor](https://glassdoor.com) — job search by city: Riga (LV), Tallinn (EE), Tartu (EE), Vilnius (LT), Kaunas (LT)
