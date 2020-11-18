@@ -1,4 +1,4 @@
-The list of resources where it's best to look for a job in IT in Baltic states — Lithuania, Latvia, Estonia
+The list of resources where it's possible to look for a job in IT in Baltic states — Lithuania, Latvia, Estonia
 
 
 # Lithuania
