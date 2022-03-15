@@ -11,6 +11,10 @@ The list of resources where it's possible to look for a job in IT in Baltic stat
 # Latvia
 * [cv.lv](https://www.cv.lv)
 * [LikeIT](https://www.likeit.lv)
+* [ss.lv](https://www.ss.lv/ru/work/)
+* [CVmarket](https://www.cvmarket.lv/darba-piedavajumi-atrasanas-vieta)
+* Facebook group [Work in Latvia](https://www.facebook.com/groups/1988810464702292/)
+
 
 # Estonia
 * [Work Estonia](https://workinestonia.com/latest-offers/) 
